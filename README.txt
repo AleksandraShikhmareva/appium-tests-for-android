@@ -11,6 +11,7 @@ Preconditions:
 - Have appuim is installed
 - Android SDK configured on your system
 - Put capabilities for your device
+- Needs JDK 1.8
 
 Steps:
 
